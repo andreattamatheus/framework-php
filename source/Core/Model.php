@@ -2,6 +2,8 @@
 
 namespace Source\Core;
 
+use Source\Support\Message;
+
 /**
  * Class Model
  * @package Source\Models

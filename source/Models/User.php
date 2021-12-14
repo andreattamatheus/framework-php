@@ -16,7 +16,7 @@ class User extends Model
     /** @var string $entity database table */
     protected static $entity = "users";
 
-    /** @var array $required table fileds */
+    /** @var array $required table fields */
     protected static $required = ["first_name", "last_name", "email", "password"];
 
     /**
