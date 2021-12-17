@@ -43,11 +43,7 @@ define("CONF_MESSAGE_WARNING", "warning");
 define("CONF_MESSAGE_ERROR", "error");
 
 
-define("CONF_MAIL_HOST", "smtp.sendgrid.net");
-define("CONF_MAIL_PORT", "587");
-define("CONF_MAIL_USER", "apikey");
-define("CONF_MAIL_PASS", "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");
-define("CONF_MAIL_SENDER", ["name" => "Matheus Andreatta", "address" => "andreattamatheus25@gmail.com"]);
+
 define("CONF_MAIL_OPTION_LANG", "br");
 define("CONF_MAIL_OPTION_HTML", true);
 define("CONF_MAIL_OPTION_AUTH", true);
